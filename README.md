@@ -1,4 +1,77 @@
-# DevOps
-https://phoenixnap.com/kb/how-to-setup-ftp-server-install-vsftpd-centos-7
-https://community.webcore.cloud/tutorials/linux_specific_articles/how_to_extend_partition_with_unallocated_space_cen/
-https://upcloud.com/community/tutorials/use-ssh-keys-authentication/?utm_term=&utm_campaign=DSA&utm_source=adwords&utm_medium=ppc&hsa_acc=9391663435&hsa_cam=7185608860&hsa_grp=81739862313&hsa_ad=391197952986&hsa_src=g&hsa_tgt=aud-877864361644:dsa-460992423274&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAgomBBhDXARIsAFNyUqOEyCMdm2Pc5a3QojGrDrUoOk3bSJRxe5Yn5MqCT4B13hJTBgsdJtoaAu2GEALw_wcB
+# Resume
+
+### Pavlo Polyak
+Web-designer
+
+```
+I believe that having such important qualities as 
+responsibility, purposefulness, diligence and perseverance 
+will help me to prove myself successfully in work. 
+The main thing is to have the opportunity 
+for development and career growth
+```
+
+### Languages
+- 🇺🇦 УКРАЇНСЬКА
+- 🇷🇺 РУССКИЙ
+- 🇺🇸 ENGLISH
+
+### Skills
+- [HTML-CSS-JS](https://raw.githack.com/PolyakPavlo/MERN/main/barmaglot/index.html)
+- [HTML-JQuery-Git-Json](https://raw.githack.com/PolyakPavlo/MERN/main/barmaglot/trans.html)
+   
+- Python
+  - [Webdriver](https://github.com/PolyakPavlo/DevOps/blob/dev/py/olx_spider.py)
+  - [Selenium](https://github.com/PolyakPavlo/DevOps/blob/dev/py/selenium.py)
+  - [API](https://github.com/PolyakPavlo/DevOps/blob/dev/py/API.py)
+  - [Ddos](https://github.com/PolyakPavlo/DevOps/blob/dev/py/run.py)
+  - [Web spider](https://github.com/PolyakPavlo/DevOps/blob/dev/py/thread.py)
+  
+- NODE.js (Mongodb,Express,React,Node)
+
+- JAVA
+
+- Adobe
+  - InDesign
+  - Photoshop
+  - Illustrator
+
+- GIT
+- LINUX
+- WINDOWS
+  - MICROSOFT OFFICE
+
+### Character
+
+```
+Brave, positive, savvy guy. 
+Full of energy and strength to accomplish 
+great things there is a sense of justice, 
+virtue, rigor. Faithful and honest friend
+```
+
+### Likes😃
+- Music
+- Mountain
+- Book
+- Cooking
+
+### Dislikes😞
+- Lazy
+
+### Wants🥺
+- TO BE CLEVER AND HEALTHY 
+- TO READ MORE
+
+### Education
+    Every free times
+
+### Experience
+- 2002-2008 newpaper "MB"
+- 2008-2018 newpaper "Pogliad"
+- 2018-until newpaper "MB"
+
+### Contacts
+- 099 091 36 77
+- https://t.me/PashaPolyak
+- poliakpavlo@gmail.com
