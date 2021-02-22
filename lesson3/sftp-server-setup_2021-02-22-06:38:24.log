@@ -1,7 +1,0 @@
-Logging setup to /tmp/sftp-server-setup_2021-02-22-06:38:24.log
-New password: 
-BAD PASSWORD: The password is a palindrome
-Retype new password: 
-Changing password for user user0.
-passwd: all authentication tokens updated successfully.
-chown: cannot access ‘/home/user0/.ssh/’: No such file or directory
