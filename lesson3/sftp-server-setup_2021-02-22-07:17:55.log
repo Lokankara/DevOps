@@ -1,0 +1,47 @@
+Logging setup to /tmp/sftp-server-setup_2021-02-22-07:17:55.log
+New password: 
+BAD PASSWORD: The password is a palindrome
+Retype new password: 
+Changing password for user user18.
+passwd: all authentication tokens updated successfully.
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirror.netcologne.de
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+No packages marked for update
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirror.yandex.ru
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Package epel-release-7-13.noarch already installed and latest version
+Nothing to do
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirror.yandex.ru
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Package vsftpd-3.0.2-28.el7.x86_64 already installed and latest version
+Nothing to do
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirrors.colocall.net
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Package ftp-0.17-67.el7.x86_64 already installed and latest version
+Nothing to do
+Warning: ALREADY_ENABLED: 21:tcp
+success
+Warning: ALREADY_ENABLED: ftp
+success
+Warning: ALREADY_ENABLED: 10000-10001:tcp
+success
+success
+user18
+tee: invalid option -- 'p'
+Try 'tee --help' for more information.

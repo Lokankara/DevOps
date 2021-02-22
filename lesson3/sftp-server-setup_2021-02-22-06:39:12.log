@@ -1,0 +1,121 @@
+Logging setup to /tmp/sftp-server-setup_2021-02-22-06:39:12.log
+New password: 
+BAD PASSWORD: The password is a palindrome
+Retype new password: 
+Changing password for user user2.
+passwd: all authentication tokens updated successfully.
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror-pl.kielcetechnologypark.net
+ * extras: mirror-pl.kielcetechnologypark.net
+ * updates: mirror-pl.kielcetechnologypark.net
+No packages marked for update
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Resolving Dependencies
+There are unfinished transactions remaining. You might consider running yum-complete-transaction, or "yum-complete-transaction --cleanup-only" and "yum history redo last", first to finish them. If those don't work you'll have to try removing/installing packages by hand (maybe package-cleanup can help).
+The program yum-complete-transaction is found in the yum-utils package.
+--> Running transaction check
+---> Package epel-release.noarch 0:7-11 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-11            extras            15 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 15 k
+Installed size: 24 k
+Downloading packages:
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : epel-release-7-11.noarch                                     1/1 
+  Verifying  : epel-release-7-11.noarch                                     1/1 
+
+Installed:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirror.dogado.de
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Package vsftpd-3.0.2-28.el7.x86_64 already installed and latest version
+Nothing to do
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirror.yandex.ru
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Package ftp-0.17-67.el7.x86_64 already installed and latest version
+Nothing to do
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirrors.mivocloud.com
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Package 32:bind-utils-9.11.4-26.P2.el7_9.3.x86_64 already installed and latest version
+Nothing to do
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: epel.mirror.omnilance.com
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Resolving Dependencies
+There are unfinished transactions remaining. You might consider running yum-complete-transaction, or "yum-complete-transaction --cleanup-only" and "yum history redo last", first to finish them. If those don't work you'll have to try removing/installing packages by hand (maybe package-cleanup can help).
+The program yum-complete-transaction is found in the yum-utils package.
+--> Running transaction check
+---> Package net-tools.x86_64 0:2.0-0.25.20131004git.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package         Arch         Version                          Repository  Size
+================================================================================
+Installing:
+ net-tools       x86_64       2.0-0.25.20131004git.el7         base       306 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 306 k
+Installed size: 917 k
+Downloading packages:
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : net-tools-2.0-0.25.20131004git.el7.x86_64                    1/1 
+  Verifying  : net-tools-2.0-0.25.20131004git.el7.x86_64                    1/1 
+
+Installed:
+  net-tools.x86_64 0:2.0-0.25.20131004git.el7                                   
+
+Complete!
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirrors.colocall.net
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+No package network-scripts available.
+Error: Nothing to do
