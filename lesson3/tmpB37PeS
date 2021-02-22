@@ -1,0 +1,3 @@
+mkinitrd failed
+ERROR: installing kernel-3.10.0-1160.15.2.el7.x86_64: no space left for creating initramfs. Clean up /boot partition and re-run '/usr/sbin/new-kernel-pkg --package kernel --mkinitrd --dracut --depmod --install 3.10.0-1160.15.2.el7.x86_64'
+warning: %posttrans(kernel-3.10.0-1160.15.2.el7.x86_64) scriptlet failed, exit status 1

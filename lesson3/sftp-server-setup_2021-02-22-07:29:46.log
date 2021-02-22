@@ -1,0 +1,55 @@
+Logging setup to /tmp/sftp-server-setup_2021-02-22-07:29:46.log
+New password: 
+BAD PASSWORD: The password is a palindrome
+Retype new password: 
+Changing password for user user21.
+passwd: all authentication tokens updated successfully.
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirrors.colocall.net
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+No packages marked for update
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirror.yandex.ru
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Package epel-release-7-13.noarch already installed and latest version
+Nothing to do
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirror.yandex.ru
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Package vsftpd-3.0.2-28.el7.x86_64 already installed and latest version
+Nothing to do
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.bytes.ua
+ * epel: mirrors.colocall.net
+ * extras: mirrors.bytes.ua
+ * updates: mirrors.bytes.ua
+Package ftp-0.17-67.el7.x86_64 already installed and latest version
+Nothing to do
+Warning: ALREADY_ENABLED: 21:tcp
+success
+Warning: ALREADY_ENABLED: ftp
+success
+Warning: ALREADY_ENABLED: 10000-10001:tcp
+success
+success
+user21
+user21
+New password: 
+BAD PASSWORD: The password is a palindrome
+Retype new password: 
+Changing password for user testuser21.
+passwd: all authentication tokens updated successfully.
+testuser21
+=============ftp===============
+Cloning into 'DevOps'...
+fatal: Not a git repository (or any of the parent directories): .git
