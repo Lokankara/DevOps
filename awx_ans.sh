@@ -1,22 +1,14 @@
-sudo apt install -y epel-release
-sudo apt remove python-docker-py
-sudo apt install -y yum-utils device-mapper-persistent-data lvm2 ansible git python-devel python-pip python-docker-py vim-enhanced
-pip install cryptography
-pip install jsonschema
-pip install docker-compose~=1.23.0
-pip install docker –upgrade
-
-#yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
-
-sudo apt install docker-ce -y
-systemctl start docker
-systemctl enable docker
+apt-get update
+apt-get install apt-transport-https wget gnupg python3 python3-pip python-dev tree libpq-dev
+update-alternatives --install /usr/bin/python python /usr/bin/python3 1
+pip3 install ansible
+apt-get install docker.io
+apt-get install npm
+npm install npm --global
+reboot
+pip3 install docker-compose
+mkdir /downloads
+cd /downloads
 git clone https://github.com/ansible/awx.git
-cd awx/
-git clone https://github.com/ansible/awx-logos.git
-cd installer/
-
-vi inventory
-#awx_official=true
-#ansible-playbook -i inventory install.yml -vv
-docker ps -a
+cd /downloads/awx/installer
+ansible-playbook -i inventory install.yml
