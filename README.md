@@ -1,4 +1,4 @@
-bastion proxy router firewall paramiko mapping ports in docker-compose
+[links](bastion proxy router firewall NAT brigde MAC  paramiko mapping ports in docker-compose)
 # Resume
 
 ### Pavlo Polyak
