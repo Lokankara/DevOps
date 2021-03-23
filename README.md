@@ -1,13 +1,13 @@
-(https://www.google.com/search?channel=fs&client=ubuntu&q=bastion)
-(https://www.google.com/search?channel=fs&client=ubuntu&q=proxy)
-(https://www.google.com/search?channel=fs&client=ubuntu&q=router docker)
-(https://www.google.com/search?channel=fs&client=ubuntu&q=firewall)
-(https://www.google.com/search?channel=fs&client=ubuntu&q=NAT)
-(https://www.google.com/search?channel=fs&client=ubuntu&q=brigde)
-(https://www.google.com/search?channel=fs&client=ubuntu&q=MAC) 
-(https://www.google.com/search?channel=fs&client=ubuntu&q=Web-hooks)
-(https://www.google.com/search?channel=fs&client=ubuntu&q=paramiko)
-(https://www.google.com/search?channel=fs&client=ubuntu&q=mapping ports in docker-compose)
+[bastion](https://rtfm.co.ua/ssh-podklyuchenie-v-privatnuyu-set-cherez-bastion-i-nemnogo-pro-multiplexing/)
+[proxy](https://www.google.com/search?channel=fs&client=ubuntu&q=proxy)
+[router](https://www.google.com/search?channel=fs&client=ubuntu&q=router_docker)
+[firewall](https://www.google.com/search?channel=fs&client=ubuntu&q=firewall)
+[NAT](https://www.google.com/search?channel=fs&client=ubuntu&q=NAT)
+[bridge](https://www.google.com/search?channel=fs&client=ubuntu&q=bridge)
+[MAC](https://www.google.com/search?channel=fs&client=ubuntu&q=MAC) 
+[hooks](https://www.google.com/search?channel=fs&client=ubuntu&q=Web-hooks)
+[paramiko](https://www.google.com/search?channel=fs&client=ubuntu&q=paramiko)
+[ports](https://www.google.com/search?channel=fs&client=ubuntu&q=mapping ports in docker-compose)
 # Resume
 
 ### Pavlo Polyak
