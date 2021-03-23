@@ -1,4 +1,13 @@
-[links](bastion proxy router firewall NAT brigde MAC  paramiko mapping ports in docker-compose)
+(https://www.google.com/search?channel=fs&client=ubuntu&q=bastion)
+(https://www.google.com/search?channel=fs&client=ubuntu&q=proxy)
+(https://www.google.com/search?channel=fs&client=ubuntu&q=router docker)
+(https://www.google.com/search?channel=fs&client=ubuntu&q=firewall)
+(https://www.google.com/search?channel=fs&client=ubuntu&q=NAT)
+(https://www.google.com/search?channel=fs&client=ubuntu&q=brigde)
+(https://www.google.com/search?channel=fs&client=ubuntu&q=MAC) 
+(https://www.google.com/search?channel=fs&client=ubuntu&q=Web-hooks)
+(https://www.google.com/search?channel=fs&client=ubuntu&q=paramiko)
+(https://www.google.com/search?channel=fs&client=ubuntu&q=mapping ports in docker-compose)
 # Resume
 
 ### Pavlo Polyak
