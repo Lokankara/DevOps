@@ -1,6 +1,7 @@
-# Resume
+# Resme
 
-###Links
+### Links
+- [ENT](CMD-entrypoint, add-copy)
 - [bastion](https://rtfm.co.ua/ssh-podklyuchenie-v-privatnuyu-set-cherez-bastion-i-nemnogo-pro-multiplexing/)
 - [proxy](https://www.google.com/search?channel=fs&client=ubuntu&q=proxy)
 - [router](https://www.google.com/search?channel=fs&client=ubuntu&q=router_docker)
